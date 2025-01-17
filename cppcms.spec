@@ -7,7 +7,7 @@ Summary:	CppCMS - C++ Web Framework
 Summary(pl.UTF-8):	CppCMS - szkielet WWW w C++
 Name:		cppcms
 Version:	1.2.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/Networking
 #Source0Download: https://github.com/artyom-beilis/cppcms/tags
